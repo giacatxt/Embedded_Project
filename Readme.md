@@ -9,6 +9,8 @@
 - MRFC522
 - SSD1306
 - Servo 9g 
+## Mạch demo
+![Sơ đồ ghép nối các thiết bị](image.png)
 
 ## Thư viện
 - Adafruit_SSD1306
