@@ -10,7 +10,7 @@
 - SSD1306
 - Servo 9g 
 ## Mạch demo
-![Sơ đồ ghép nối các thiết bị](image.png)
+![Sơ đồ ghép nối các thiết bị](/Image.jpg)
 
 ## Thư viện
 - Adafruit_SSD1306
