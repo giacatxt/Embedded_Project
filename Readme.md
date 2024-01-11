@@ -11,7 +11,8 @@
 - Servo 9g 
 ## Mạch demo
 ![Sơ đồ ghép nối các thiết bị](/Image.jpg)
-
+## Video demo
+![Video demo thiết bị](/videodemo.mp4)
 ## Thư viện
 - Adafruit_SSD1306
 - ESP32Servo
